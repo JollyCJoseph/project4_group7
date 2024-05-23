@@ -43,9 +43,9 @@ Ultimately, while the WHO uses universal BMI thresholds for defining overweight 
 ### Visualisations using python
 Visualisations were created using Python libraries such as Pandas, Matplotlib, Seaborn, and Plotly. 
 
-### Visualisations using Tableau
+### Visualisations using Tableau (RAFI)
 
-### Classification Analysis
+### Classification Analysis (JOLLY)
 
 ### Conclusion
 
