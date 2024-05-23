@@ -23,4 +23,8 @@ The records are labeled with the class variable NObesity (Obesity Level), that a
 
 
 The data contains numerical data and continous data, so it can be used for analysis based on algorithms of classification, prediction, segmentation and association. Data is available in CSV format.
+
+### Steps 
+- 
+
  
