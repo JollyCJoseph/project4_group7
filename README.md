@@ -46,8 +46,12 @@ Visualisations were created using Python libraries such as Pandas, Matplotlib, S
 ### Visualisations using Tableau (RAFI)
 
 ### Classification Analysis (JOLLY)
-# Linear regression model
+### Linear regression model
 ![Screenshot 2024-05-23 210930](https://github.com/JollyCJoseph/project4_group7/assets/151517356/2b1a9ba4-5c51-453c-9e48-78a30066c585)
+### Random forest
+![Screenshot 2024-05-23 211058](https://github.com/JollyCJoseph/project4_group7/assets/151517356/39cac0b3-732d-4b21-8d90-9759511f4060)
+### KNN Model
+![Screenshot 2024-05-23 211616](https://github.com/JollyCJoseph/project4_group7/assets/151517356/bd4e8da9-cebf-4b3c-85c0-cd13d59a40a8)
 
 
 ### Conclusion
